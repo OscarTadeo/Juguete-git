@@ -10,6 +10,12 @@ El proyecto se compila haciendo.
 mvn clean install
 #+end_src
 
+#+begin_src java
+public static void main(String[]args){
+	System.out.println("Holis");
+}
+#+end_src
+
 ** Como configurar la basde de datos para que compile el proyecto.
 * Estilo de codificacion.
 * Gotchas.
