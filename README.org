@@ -2,7 +2,7 @@
 #+author: Oscar Tadeo
 #+date: [2019-02-19 mar 15:10]
 Es un ejemplo de descripcion para mi primer proyecto en git.Seguro contendra el modo de uso y un proyecto maven.
-*¿Como compilar un proyecto?
+* ¿Como compilar un proyecto?
 
 El proyecto se compila haciendo.
 
@@ -10,6 +10,6 @@ El proyecto se compila haciendo.
 mvn clean install
 #+end_src
 
-**Como configurar la basde de datos para que compile el proyecto.
-*Estilo de codificacion.
-*Gotchas.
+** Como configurar la basde de datos para que compile el proyecto.
+* Estilo de codificacion.
+* Gotchas.
