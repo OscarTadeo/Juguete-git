@@ -10,6 +10,6 @@ El proyecto se compila haciendo.
 mvn clean install
 #+end_src
 
-**Como configurar la basde de datos para que compile el proyecto
-*Estilo de codificacion
-*Gotchas
+**Como configurar la basde de datos para que compile el proyecto.
+*Estilo de codificacion.
+*Gotchas.
