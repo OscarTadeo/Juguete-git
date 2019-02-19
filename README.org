@@ -1,0 +1,5 @@
+#+title: Mi proyecto
+#+author: Oscar Tadeo
+#+date: [2019-02-19 mar 15:10]
+Es un ejemplo de descripcion para mi primer proyecto en git.Seguro contendra el modo de uso y un proyecto maven.
+*¿como compilar un proyecto?
